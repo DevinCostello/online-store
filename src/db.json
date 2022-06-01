@@ -1,0 +1,1827 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "optimizing",
+      "category": "tshirt",
+      "size": [
+        false,
+        true,
+        false
+      ],
+      "trending": true,
+      "discount": 50,
+      "color": [
+        "Yellow",
+        "Khaki",
+        "Mauv"
+      ],
+      "price": 63
+    },
+    {
+      "id": 2,
+      "name": "Extended",
+      "category": "hat",
+      "size": [
+        false,
+        true,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Pink",
+        "Maroon",
+        "Red"
+      ],
+      "price": 33
+    },
+    {
+      "id": 3,
+      "name": "collaboration",
+      "category": "tshirt",
+      "size": [
+        false,
+        false,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Crimson",
+        "Blue",
+        "Indigo"
+      ],
+      "price": 79
+    },
+    {
+      "id": 4,
+      "name": "flexibility",
+      "category": "hat",
+      "size": [
+        false,
+        false,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Blue",
+        "Mauv",
+        "Khaki"
+      ],
+      "price": 32
+    },
+    {
+      "id": 5,
+      "name": "installation",
+      "category": "tshirt",
+      "size": [
+        true,
+        false,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Aquamarine",
+        "Aquamarine",
+        "Turquoise"
+      ],
+      "price": 92
+    },
+    {
+      "id": 6,
+      "name": "help-desk",
+      "category": "hoodie",
+      "size": [
+        true,
+        true,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Fuscia",
+        "Crimson",
+        "Green"
+      ],
+      "price": 67
+    },
+    {
+      "id": 7,
+      "name": "User-centric",
+      "category": "tshirt",
+      "size": [
+        true,
+        true,
+        true
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Yellow",
+        "Red",
+        "Indigo"
+      ],
+      "price": 35
+    },
+    {
+      "id": 8,
+      "name": "Advanced",
+      "category": "hoodie",
+      "size": [
+        true,
+        true,
+        true
+      ],
+      "trending": false,
+      "discount": 10,
+      "color": [
+        "Mauv",
+        "Purple",
+        "Orange"
+      ],
+      "price": 77
+    },
+    {
+      "id": 9,
+      "name": "Organized",
+      "category": "tshirt",
+      "size": [
+        true,
+        false,
+        true
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Puce",
+        "Yellow",
+        "Puce"
+      ],
+      "price": 79
+    },
+    {
+      "id": 10,
+      "name": "De-engineered",
+      "category": "tshirt",
+      "size": [
+        false,
+        true,
+        true
+      ],
+      "trending": false,
+      "discount": 50,
+      "color": [
+        "Yellow",
+        "Red",
+        "Teal"
+      ],
+      "price": 34
+    },
+    {
+      "id": 11,
+      "name": "discrete",
+      "category": "hoodie",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": false,
+      "discount": 10,
+      "color": [
+        "Indigo",
+        "Yellow",
+        "Orange"
+      ],
+      "price": 40
+    },
+    {
+      "id": 12,
+      "name": "transitional",
+      "category": "hoodie",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Green",
+        "Indigo",
+        "Orange"
+      ],
+      "price": 90
+    },
+    {
+      "id": 13,
+      "name": "Organized",
+      "category": "tshirt",
+      "size": [
+        false,
+        false,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Red",
+        "Pink",
+        "Purple"
+      ],
+      "price": 64
+    },
+    {
+      "id": 14,
+      "name": "Open-architected",
+      "category": "tshirt",
+      "size": [
+        true,
+        false,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Orange",
+        "Maroon",
+        "Khaki"
+      ],
+      "price": 53
+    },
+    {
+      "id": 15,
+      "name": "Enhanced",
+      "category": "hoodie",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Fuscia",
+        "Violet",
+        "Green"
+      ],
+      "price": 33
+    },
+    {
+      "id": 16,
+      "name": "contingency",
+      "category": "hoodie",
+      "size": [
+        true,
+        true,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Aquamarine",
+        "Mauv",
+        "Turquoise"
+      ],
+      "price": 40
+    },
+    {
+      "id": 17,
+      "name": "pricing structure",
+      "category": "hat",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Purple",
+        "Red",
+        "Goldenrod"
+      ],
+      "price": 90
+    },
+    {
+      "id": 18,
+      "name": "Virtual",
+      "category": "hoodie",
+      "size": [
+        true,
+        true,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Maroon",
+        "Green",
+        "Teal"
+      ],
+      "price": 98
+    },
+    {
+      "id": 19,
+      "name": "zero tolerance",
+      "category": "hoodie",
+      "size": [
+        false,
+        true,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Mauv",
+        "Teal",
+        "Turquoise"
+      ],
+      "price": 37
+    },
+    {
+      "id": 20,
+      "name": "heuristic",
+      "category": "tshirt",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Pink",
+        "Green",
+        "Crimson"
+      ],
+      "price": 81
+    },
+    {
+      "id": 21,
+      "name": "transitional",
+      "category": "tshirt",
+      "size": [
+        false,
+        false,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Khaki",
+        "Violet",
+        "Yellow"
+      ],
+      "price": 45
+    },
+    {
+      "id": 22,
+      "name": "maximized",
+      "category": "tshirt",
+      "size": [
+        true,
+        true,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Khaki",
+        "Violet",
+        "Purple"
+      ],
+      "price": 84
+    },
+    {
+      "id": 23,
+      "name": "forecast",
+      "category": "hoodie",
+      "size": [
+        true,
+        true,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Crimson",
+        "Violet",
+        "Crimson"
+      ],
+      "price": 44
+    },
+    {
+      "id": 24,
+      "name": "Networked",
+      "category": "hat",
+      "size": [
+        false,
+        false,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Khaki",
+        "Pink",
+        "Khaki"
+      ],
+      "price": 74
+    },
+    {
+      "id": 25,
+      "name": "Programmable",
+      "category": "tshirt",
+      "size": [
+        false,
+        true,
+        true
+      ],
+      "trending": false,
+      "discount": 25,
+      "color": [
+        "Teal",
+        "Teal",
+        "Blue"
+      ],
+      "price": 51
+    },
+    {
+      "id": 26,
+      "name": "migration",
+      "category": "hoodie",
+      "size": [
+        false,
+        false,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Purple",
+        "Puce",
+        "Goldenrod"
+      ],
+      "price": 80
+    },
+    {
+      "id": 27,
+      "name": "Re-contextualized",
+      "category": "hoodie",
+      "size": [
+        true,
+        true,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Aquamarine",
+        "Turquoise",
+        "Maroon"
+      ],
+      "price": 71
+    },
+    {
+      "id": 28,
+      "name": "intermediate",
+      "category": "hat",
+      "size": [
+        true,
+        true,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Violet",
+        "Violet",
+        "Crimson"
+      ],
+      "price": 88
+    },
+    {
+      "id": 29,
+      "name": "Right-sized",
+      "category": "tshirt",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": false,
+      "discount": 10,
+      "color": [
+        "Aquamarine",
+        "Red",
+        "Violet"
+      ],
+      "price": 44
+    },
+    {
+      "id": 30,
+      "name": "knowledge base",
+      "category": "hoodie",
+      "size": [
+        true,
+        true,
+        true
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Maroon",
+        "Orange",
+        "Orange"
+      ],
+      "price": 29
+    },
+    {
+      "id": 31,
+      "name": "dedicated",
+      "category": "hoodie",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Red",
+        "Maroon",
+        "Orange"
+      ],
+      "price": 53
+    },
+    {
+      "id": 32,
+      "name": "4th generation",
+      "category": "hat",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Teal",
+        "Fuscia",
+        "Pink"
+      ],
+      "price": 77
+    },
+    {
+      "id": 33,
+      "name": "Phased",
+      "category": "hoodie",
+      "size": [
+        true,
+        false,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Violet",
+        "Turquoise",
+        "Indigo"
+      ],
+      "price": 61
+    },
+    {
+      "id": 34,
+      "name": "24 hour",
+      "category": "hat",
+      "size": [
+        true,
+        true,
+        true
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Green",
+        "Orange",
+        "Green"
+      ],
+      "price": 99
+    },
+    {
+      "id": 35,
+      "name": "Open-source",
+      "category": "hat",
+      "size": [
+        true,
+        true,
+        true
+      ],
+      "trending": true,
+      "discount": 50,
+      "color": [
+        "Aquamarine",
+        "Teal",
+        "Teal"
+      ],
+      "price": 88
+    },
+    {
+      "id": 36,
+      "name": "Secured",
+      "category": "hoodie",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": true,
+      "discount": 50,
+      "color": [
+        "Puce",
+        "Blue",
+        "Orange"
+      ],
+      "price": 88
+    },
+    {
+      "id": 37,
+      "name": "dedicated",
+      "category": "hat",
+      "size": [
+        false,
+        false,
+        false
+      ],
+      "trending": false,
+      "discount": 25,
+      "color": [
+        "Goldenrod",
+        "Aquamarine",
+        "Blue"
+      ],
+      "price": 71
+    },
+    {
+      "id": 38,
+      "name": "workforce",
+      "category": "hoodie",
+      "size": [
+        true,
+        true,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Orange",
+        "Goldenrod",
+        "Orange"
+      ],
+      "price": 37
+    },
+    {
+      "id": 39,
+      "name": "user-facing",
+      "category": "tshirt",
+      "size": [
+        false,
+        false,
+        true
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Violet",
+        "Yellow",
+        "Orange"
+      ],
+      "price": 98
+    },
+    {
+      "id": 40,
+      "name": "grid-enabled",
+      "category": "tshirt",
+      "size": [
+        true,
+        true,
+        true
+      ],
+      "trending": false,
+      "discount": 75,
+      "color": [
+        "Crimson",
+        "Maroon",
+        "Crimson"
+      ],
+      "price": 71
+    },
+    {
+      "id": 41,
+      "name": "moderator",
+      "category": "hoodie",
+      "size": [
+        true,
+        true,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Aquamarine",
+        "Violet",
+        "Crimson"
+      ],
+      "price": 29
+    },
+    {
+      "id": 42,
+      "name": "logistical",
+      "category": "hat",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Purple",
+        "Teal",
+        "Maroon"
+      ],
+      "price": 82
+    },
+    {
+      "id": 43,
+      "name": "regional",
+      "category": "tshirt",
+      "size": [
+        false,
+        true,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Red",
+        "Orange",
+        "Orange"
+      ],
+      "price": 60
+    },
+    {
+      "id": 44,
+      "name": "multi-state",
+      "category": "hoodie",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Violet",
+        "Purple",
+        "Purple"
+      ],
+      "price": 29
+    },
+    {
+      "id": 45,
+      "name": "attitude-oriented",
+      "category": "tshirt",
+      "size": [
+        false,
+        false,
+        true
+      ],
+      "trending": true,
+      "discount": 10,
+      "color": [
+        "Khaki",
+        "Turquoise",
+        "Crimson"
+      ],
+      "price": 30
+    },
+    {
+      "id": 46,
+      "name": "Future-proofed",
+      "category": "tshirt",
+      "size": [
+        true,
+        false,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Teal",
+        "Goldenrod",
+        "Violet"
+      ],
+      "price": 64
+    },
+    {
+      "id": 47,
+      "name": "productivity",
+      "category": "hoodie",
+      "size": [
+        false,
+        false,
+        true
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Puce",
+        "Aquamarine",
+        "Purple"
+      ],
+      "price": 28
+    },
+    {
+      "id": 48,
+      "name": "Function-based",
+      "category": "tshirt",
+      "size": [
+        true,
+        true,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Teal",
+        "Red",
+        "Orange"
+      ],
+      "price": 44
+    },
+    {
+      "id": 49,
+      "name": "Realigned",
+      "category": "hoodie",
+      "size": [
+        true,
+        false,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Pink",
+        "Pink",
+        "Fuscia"
+      ],
+      "price": 64
+    },
+    {
+      "id": 50,
+      "name": "global",
+      "category": "tshirt",
+      "size": [
+        true,
+        true,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Khaki",
+        "Teal",
+        "Puce"
+      ],
+      "price": 36
+    },
+    {
+      "id": 51,
+      "name": "Customizable",
+      "category": "tshirt",
+      "size": [
+        false,
+        true,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Indigo",
+        "Violet",
+        "Aquamarine"
+      ],
+      "price": 27
+    },
+    {
+      "id": 52,
+      "name": "Front-line",
+      "category": "hoodie",
+      "size": [
+        true,
+        true,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Aquamarine",
+        "Fuscia",
+        "Khaki"
+      ],
+      "price": 77
+    },
+    {
+      "id": 53,
+      "name": "discrete",
+      "category": "tshirt",
+      "size": [
+        false,
+        true,
+        true
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Blue",
+        "Teal",
+        "Red"
+      ],
+      "price": 66
+    },
+    {
+      "id": 54,
+      "name": "support",
+      "category": "tshirt",
+      "size": [
+        true,
+        false,
+        true
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Blue",
+        "Crimson",
+        "Orange"
+      ],
+      "price": 66
+    },
+    {
+      "id": 55,
+      "name": "paradigm",
+      "category": "tshirt",
+      "size": [
+        false,
+        true,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Mauv",
+        "Maroon",
+        "Mauv"
+      ],
+      "price": 93
+    },
+    {
+      "id": 56,
+      "name": "well-modulated",
+      "category": "hat",
+      "size": [
+        false,
+        false,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Purple",
+        "Yellow",
+        "Red"
+      ],
+      "price": 79
+    },
+    {
+      "id": 57,
+      "name": "static",
+      "category": "hoodie",
+      "size": [
+        false,
+        false,
+        true
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Crimson",
+        "Khaki",
+        "Purple"
+      ],
+      "price": 87
+    },
+    {
+      "id": 58,
+      "name": "tangible",
+      "category": "tshirt",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Green",
+        "Puce",
+        "Puce"
+      ],
+      "price": 97
+    },
+    {
+      "id": 59,
+      "name": "interactive",
+      "category": "hoodie",
+      "size": [
+        false,
+        true,
+        true
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Green",
+        "Red",
+        "Mauv"
+      ],
+      "price": 93
+    },
+    {
+      "id": 60,
+      "name": "Optimized",
+      "category": "tshirt",
+      "size": [
+        true,
+        true,
+        true
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Purple",
+        "Teal",
+        "Violet"
+      ],
+      "price": 99
+    },
+    {
+      "id": 61,
+      "name": "bifurcated",
+      "category": "tshirt",
+      "size": [
+        false,
+        false,
+        false
+      ],
+      "trending": true,
+      "discount": 10,
+      "color": [
+        "Crimson",
+        "Blue",
+        "Indigo"
+      ],
+      "price": 64
+    },
+    {
+      "id": 62,
+      "name": "zero tolerance",
+      "category": "hoodie",
+      "size": [
+        false,
+        false,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Blue",
+        "Maroon",
+        "Maroon"
+      ],
+      "price": 90
+    },
+    {
+      "id": 63,
+      "name": "support",
+      "category": "hoodie",
+      "size": [
+        true,
+        false,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Purple",
+        "Turquoise",
+        "Purple"
+      ],
+      "price": 36
+    },
+    {
+      "id": 64,
+      "name": "national",
+      "category": "hoodie",
+      "size": [
+        false,
+        false,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Maroon",
+        "Purple",
+        "Crimson"
+      ],
+      "price": 91
+    },
+    {
+      "id": 65,
+      "name": "demand-driven",
+      "category": "tshirt",
+      "size": [
+        true,
+        true,
+        false
+      ],
+      "trending": true,
+      "discount": 50,
+      "color": [
+        "Yellow",
+        "Indigo",
+        "Red"
+      ],
+      "price": 62
+    },
+    {
+      "id": 66,
+      "name": "multi-state",
+      "category": "hoodie",
+      "size": [
+        false,
+        true,
+        false
+      ],
+      "trending": false,
+      "discount": 50,
+      "color": [
+        "Yellow",
+        "Purple",
+        "Maroon"
+      ],
+      "price": 95
+    },
+    {
+      "id": 67,
+      "name": "installation",
+      "category": "tshirt",
+      "size": [
+        true,
+        true,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Pink",
+        "Teal",
+        "Green"
+      ],
+      "price": 77
+    },
+    {
+      "id": 68,
+      "name": "Face to face",
+      "category": "tshirt",
+      "size": [
+        true,
+        true,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Orange",
+        "Crimson",
+        "Fuscia"
+      ],
+      "price": 52
+    },
+    {
+      "id": 69,
+      "name": "24 hour",
+      "category": "tshirt",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Teal",
+        "Mauv",
+        "Violet"
+      ],
+      "price": 50
+    },
+    {
+      "id": 70,
+      "name": "conglomeration",
+      "category": "tshirt",
+      "size": [
+        false,
+        true,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Violet",
+        "Indigo",
+        "Purple"
+      ],
+      "price": 84
+    },
+    {
+      "id": 71,
+      "name": "task-force",
+      "category": "hoodie",
+      "size": [
+        false,
+        true,
+        false
+      ],
+      "trending": false,
+      "discount": 10,
+      "color": [
+        "Maroon",
+        "Yellow",
+        "Blue"
+      ],
+      "price": 69
+    },
+    {
+      "id": 72,
+      "name": "Diverse",
+      "category": "tshirt",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Aquamarine",
+        "Khaki",
+        "Green"
+      ],
+      "price": 42
+    },
+    {
+      "id": 73,
+      "name": "frame",
+      "category": "hoodie",
+      "size": [
+        false,
+        true,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Aquamarine",
+        "Puce",
+        "Fuscia"
+      ],
+      "price": 49
+    },
+    {
+      "id": 74,
+      "name": "multimedia",
+      "category": "tshirt",
+      "size": [
+        true,
+        true,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Violet",
+        "Maroon",
+        "Goldenrod"
+      ],
+      "price": 27
+    },
+    {
+      "id": 75,
+      "name": "Operative",
+      "category": "tshirt",
+      "size": [
+        true,
+        false,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Indigo",
+        "Aquamarine",
+        "Pink"
+      ],
+      "price": 50
+    },
+    {
+      "id": 76,
+      "name": "mobile",
+      "category": "hoodie",
+      "size": [
+        false,
+        false,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Green",
+        "Khaki",
+        "Yellow"
+      ],
+      "price": 73
+    },
+    {
+      "id": 77,
+      "name": "Monitored",
+      "category": "hat",
+      "size": [
+        true,
+        true,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Orange",
+        "Goldenrod",
+        "Yellow"
+      ],
+      "price": 74
+    },
+    {
+      "id": 78,
+      "name": "Configurable",
+      "category": "hat",
+      "size": [
+        true,
+        true,
+        true
+      ],
+      "trending": true,
+      "discount": 10,
+      "color": [
+        "Orange",
+        "Yellow",
+        "Turquoise"
+      ],
+      "price": 66
+    },
+    {
+      "id": 79,
+      "name": "Inverse",
+      "category": "hoodie",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Blue",
+        "Khaki",
+        "Turquoise"
+      ],
+      "price": 74
+    },
+    {
+      "id": 80,
+      "name": "moderator",
+      "category": "hoodie",
+      "size": [
+        false,
+        true,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Red",
+        "Indigo",
+        "Blue"
+      ],
+      "price": 79
+    },
+    {
+      "id": 81,
+      "name": "content-based",
+      "category": "tshirt",
+      "size": [
+        true,
+        false,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Teal",
+        "Orange",
+        "Orange"
+      ],
+      "price": 26
+    },
+    {
+      "id": 82,
+      "name": "knowledge user",
+      "category": "hat",
+      "size": [
+        false,
+        false,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Purple",
+        "Puce",
+        "Pink"
+      ],
+      "price": 92
+    },
+    {
+      "id": 83,
+      "name": "grid-enabled",
+      "category": "hat",
+      "size": [
+        false,
+        true,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Indigo",
+        "Fuscia",
+        "Indigo"
+      ],
+      "price": 88
+    },
+    {
+      "id": 84,
+      "name": "Enterprise-wide",
+      "category": "tshirt",
+      "size": [
+        true,
+        true,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Crimson",
+        "Puce",
+        "Blue"
+      ],
+      "price": 62
+    },
+    {
+      "id": 85,
+      "name": "approach",
+      "category": "tshirt",
+      "size": [
+        false,
+        false,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Fuscia",
+        "Fuscia",
+        "Aquamarine"
+      ],
+      "price": 84
+    },
+    {
+      "id": 86,
+      "name": "challenge",
+      "category": "hoodie",
+      "size": [
+        false,
+        false,
+        false
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Indigo",
+        "Crimson",
+        "Goldenrod"
+      ],
+      "price": 37
+    },
+    {
+      "id": 87,
+      "name": "internet solution",
+      "category": "tshirt",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Purple",
+        "Puce",
+        "Crimson"
+      ],
+      "price": 79
+    },
+    {
+      "id": 88,
+      "name": "Pre-emptive",
+      "category": "tshirt",
+      "size": [
+        false,
+        false,
+        true
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Crimson",
+        "Fuscia",
+        "Teal"
+      ],
+      "price": 28
+    },
+    {
+      "id": 89,
+      "name": "asymmetric",
+      "category": "hoodie",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Red",
+        "Orange",
+        "Aquamarine"
+      ],
+      "price": 56
+    },
+    {
+      "id": 90,
+      "name": "alliance",
+      "category": "hat",
+      "size": [
+        false,
+        false,
+        true
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Turquoise",
+        "Red",
+        "Mauv"
+      ],
+      "price": 25
+    },
+    {
+      "id": 91,
+      "name": "Reverse-engineered",
+      "category": "hoodie",
+      "size": [
+        true,
+        false,
+        true
+      ],
+      "trending": true,
+      "discount": 10,
+      "color": [
+        "Teal",
+        "Indigo",
+        "Purple"
+      ],
+      "price": 88
+    },
+    {
+      "id": 92,
+      "name": "Stallion",
+      "category": "hat",
+      "size": [
+        false,
+        true,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Puce",
+        "Green",
+        "Red"
+      ],
+      "price": 57
+    },
+    {
+      "id": 93,
+      "name": "Sharable",
+      "category": "tshirt",
+      "size": [
+        false,
+        true,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Purple",
+        "Crimson",
+        "Turquoise"
+      ],
+      "price": 42
+    },
+    {
+      "id": 94,
+      "name": "User-friendly",
+      "category": "hoodie",
+      "size": [
+        true,
+        true,
+        true
+      ],
+      "trending": false,
+      "discount": 10,
+      "color": [
+        "Green",
+        "Green",
+        "Turquoise"
+      ],
+      "price": 68
+    },
+    {
+      "id": 95,
+      "name": "demand-driven",
+      "category": "hat",
+      "size": [
+        true,
+        true,
+        true
+      ],
+      "trending": true,
+      "discount": 25,
+      "color": [
+        "Goldenrod",
+        "Goldenrod",
+        "Violet"
+      ],
+      "price": 89
+    },
+    {
+      "id": 96,
+      "name": "5th generation",
+      "category": "hat",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Red",
+        "Purple",
+        "Red"
+      ],
+      "price": 93
+    },
+    {
+      "id": 97,
+      "name": "Robust",
+      "category": "tshirt",
+      "size": [
+        true,
+        false,
+        false
+      ],
+      "trending": false,
+      "discount": 10,
+      "color": [
+        "Khaki",
+        "Khaki",
+        "Blue"
+      ],
+      "price": 97
+    },
+    {
+      "id": 98,
+      "name": "optimizing",
+      "category": "hoodie",
+      "size": [
+        false,
+        true,
+        true
+      ],
+      "trending": true,
+      "discount": null,
+      "color": [
+        "Puce",
+        "Violet",
+        "Crimson"
+      ],
+      "price": 50
+    },
+    {
+      "id": 99,
+      "name": "Universal",
+      "category": "hoodie",
+      "size": [
+        false,
+        false,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Purple",
+        "Orange",
+        "Crimson"
+      ],
+      "price": 65
+    },
+    {
+      "id": 100,
+      "name": "incremental",
+      "category": "tshirt",
+      "size": [
+        false,
+        true,
+        true
+      ],
+      "trending": false,
+      "discount": null,
+      "color": [
+        "Fuscia",
+        "Violet",
+        "Teal"
+      ],
+      "price": 54
+    }
+  ],
+  "prices": [
+    {
+      "btn_text": "Less Than $30",
+      "price_lower": 30,
+      "price_upper": null
+    },
+    {
+      "btn_text": "$30 - $50",
+      "price_lower": 30,
+      "price_upper": 50
+    },
+    {
+      "btn_text": "$50 - $75",
+      "price_lower": 50,
+      "price_upper": 75
+    },
+    {
+      "btn_text": "$75 - $100",
+      "price_lower": 75,
+      "price_upper": 100
+    }
+  ],
+  "cart": []
+}
